@@ -4,7 +4,7 @@
 
 This structured **90-session** learning program covers a comprehensive journey from fundamental JavaScript concepts to advanced **MERN stack development**, incorporating ESLint for code quality, and culminating in the development and presentation of a **Learning Management System (LMS)** project. Each session includes clear objectives, detailed topics, practical exercises, and comments to guide learning and application of concepts.
 
-**Prerequisites:** Basic understanding of **HTML,** **CSS**, and JavaScript. Familiarity with programming concepts and web development fundamentals is recommended for optimal learning experience.
+**Prerequisites:** Basic understanding of **HTML,** **CSS,** and JavaScript. Familiarity with programming concepts and web development fundamentals is recommended for optimal learning experience.
 
 -----
 
