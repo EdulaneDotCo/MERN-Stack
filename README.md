@@ -807,4 +807,4 @@ This structured **90-session** learning program covers a comprehensive journey f
 - **Exercises:** Present LMS project to peers and stakeholders.
 - **Comments:** The final session culminates in presenting the completed LMS project, showcasing its features, functionality, and implementation details. Participants will demonstrate key aspects of the LMS, discuss challenges faced and solutions implemented during development, and receive feedback from peers and stakeholders to reflect on the project's success and lessons learned.
 -----
-**Happy Learning**
+**Happy Learning** :thumbsup: :technologist: :woman_technologist:
